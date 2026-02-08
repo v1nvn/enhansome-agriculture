@@ -131,7 +131,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-05T20:43:33Z",
+            "last_commit": "2026-02-07T20:13:17Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 179
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-06T21:45:07Z",
+            "last_commit": "2026-02-07T13:42:35Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 765
@@ -787,10 +787,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:12:54.244Z",
+    "last_updated": "2026-02-08T04:35:00.090Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "source_repository": "v1nvn/enhansome-agriculture",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Agriculture with stars"
   }
 }
