@@ -4,7 +4,7 @@
 
 [Agriculture](https://en.wikipedia.org/wiki/Agriculture) is the science and art of cultivating plants and livestock for food and materials.
 
-Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,671 | 🐛 3 | 📅 2026-01-05.
+Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,673 | 🐛 3 | 📅 2026-01-05.
 
 ## Contents
 
@@ -23,7 +23,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Automation and Robotics
 
-* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 755 | 🐛 25 | 🌐 C++ | 📅 2026-01-09 - Robust and efficient coverage paths for autonomous agricultural vehicles.
+* [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) ⭐ 756 | 🐛 25 | 🌐 C++ | 📅 2026-01-09 - Robust and efficient coverage paths for autonomous agricultural vehicles.
 * [Ant Robotics](https://antrobotics.de/) - development from Ecoterra bot
 * [Acorn Rover](https://github.com/Twisted-Fields) - precision farming rover, Odrive, Python.
 * [Earth Rover](https://github.com/earthrover) - Ag AGV ROS1 precision farming rover
@@ -56,7 +56,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Datasets
 
-* [CropHarvest](https://github.com/nasaharvest/cropharvest) ⭐ 222 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-04-30 - Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.
+* [CropHarvest](https://github.com/nasaharvest/cropharvest) ⭐ 223 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-04-30 - Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.
 * [SoybeanYield](https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction?tab=readme-ov-file) ⭐ 165 | 🐛 11 | 🌐 Python | 📅 2024-03-14 - A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters.
 * [CWFID](https://github.com/cwfid/dataset) ⭐ 156 | 🐛 0 | 📅 2015-04-20 - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
 * [Agriculture Datasets Collection](https://lacunafund.org/datasets/agriculture/) - Curated collection of machine learning datasets specifically designed to address food security challenges in developing regions.
@@ -85,10 +85,10 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Farm Management Systems and Record Keeping
 
-* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,211 | 🐛 49 | 🌐 PHP | 📅 2026-02-15 - Web-based farm record keeping application built with Drupal and PHP.
+* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,212 | 🐛 49 | 🌐 PHP | 📅 2026-02-15 - Web-based farm record keeping application built with Drupal and PHP.
 * [Tania](https://github.com/Tanibox/tania-core) ⭐ 813 | 🐛 34 | 🌐 Go | 📅 2024-06-13 - Free and open source farming management system for everyone built with Go and Vue.js.
 * [Ekylibre](https://github.com/ekylibre/ekylibre) ⭐ 466 | 🐛 3 | 🌐 Ruby | 📅 2024-03-11 - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
-* [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 195 | 🐛 40 | 🌐 JavaScript | 📅 2026-02-19 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
+* [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 195 | 🐛 42 | 🌐 JavaScript | 📅 2026-02-20 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
 * [Soil Mate](https://github.com/Open-Source-Agriculture/soil_mate) ⭐ 23 | 🐛 7 | 🌐 Dart | 📅 2021-04-05 - Helper app designed to assist the collection of soil data.
 * [GrowGood](https://gitlab.com/growgood)) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
 
@@ -96,7 +96,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### GIS Resources
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,193 | 🐛 17 | 📅 2026-02-06 - Awesome GIS is a list collecting abundant GIS related sources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,195 | 🐛 17 | 📅 2026-02-06 - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### GIS Platforms
 
@@ -127,7 +127,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 ## Machine Learning and AI
 
 * [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 833 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-07-28 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
-* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 765 | 🐛 120 | 🌐 Python | 📅 2026-02-18 - Plant phenotyping software using computer vision.
+* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 765 | 🐛 119 | 🌐 Python | 📅 2026-02-19 - Plant phenotyping software using computer vision.
 * [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) ⭐ 416 | 🐛 11 | 🌐 Python | 📅 2023-05-27 - Deep gaussian process for crop yield prediction based on remote sensing data.
 * [AgML](https://github.com/Project-AgML/AgML) ⭐ 262 | 🐛 11 | 🌐 Python | 📅 2025-04-22 - Centralized framework for agricultural machine learning.
 * [agridat](https://github.com/kwstat/agridat) ⭐ 139 | 🐛 0 | 🌐 R | 📅 2026-02-10 - R package providing an extensive collection of datasets from agricultural experiments.
@@ -135,7 +135,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Remote Sensing and Imagery
 
-* [Raster Vision](https://github.com/azavea/raster-vision) ⭐ 2,202 | 🐛 41 | 🌐 Python | 📅 2025-09-29 - Deep learning for aerial/satellite imagery.
+* [Raster Vision](https://github.com/azavea/raster-vision) ⭐ 2,204 | 🐛 41 | 🌐 Python | 📅 2025-09-29 - Deep learning for aerial/satellite imagery.
 * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) ⭐ 575 | 🐛 1 | 📅 2025-02-20 - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 * [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) ⭐ 126 | 🐛 23 | 🌐 HTML | 📅 2020-11-23 - Software system processing high resolution satellite images for agricultural purposes.
 * [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) ⭐ 79 | 🐛 0 | 📅 2023-03-09 - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
