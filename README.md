@@ -4,7 +4,7 @@
 
 [Agriculture](https://en.wikipedia.org/wiki/Agriculture) is the science and art of cultivating plants and livestock for food and materials.
 
-Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,673 | 🐛 3 | 📅 2026-01-05.
+Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,675 | 🐛 3 | 📅 2026-01-05.
 
 ## Contents
 
@@ -41,7 +41,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Climate, Environment and Weather
 
-* [iem](https://github.com/akrherz/iem) ⭐ 180 | 🐛 108 | 🌐 Python | 📅 2026-02-17 - Code that makes the Iowa Environmental Mesonet run.
+* [iem](https://github.com/akrherz/iem) ⭐ 181 | 🐛 108 | 🌐 Python | 📅 2026-02-20 - Code that makes the Iowa Environmental Mesonet run.
 * [PyETo](https://github.com/woodcrafty/PyETo) ⭐ 177 | 🐛 5 | 🌐 Python | 📅 2022-08-31 - Python package for calculating reference/potential evapotranspiration (ETo).
 * [frostline](https://github.com/waldoj/frostline) ⭐ 162 | 🐛 13 | 🌐 Python | 📅 2025-11-11 - A dataset, API, and python parser for USDA plant hardiness zones.
 * [pyTSEB](https://github.com/hectornieto/pyTSEB) ⭐ 160 | 🐛 4 | 🌐 Python | 📅 2025-12-16 - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
@@ -56,7 +56,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Datasets
 
-* [CropHarvest](https://github.com/nasaharvest/cropharvest) ⭐ 223 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-04-30 - Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.
+* [CropHarvest](https://github.com/nasaharvest/cropharvest) ⭐ 224 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-04-30 - Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.
 * [SoybeanYield](https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction?tab=readme-ov-file) ⭐ 165 | 🐛 11 | 🌐 Python | 📅 2024-03-14 - A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters.
 * [CWFID](https://github.com/cwfid/dataset) ⭐ 156 | 🐛 0 | 📅 2015-04-20 - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
 * [Agriculture Datasets Collection](https://lacunafund.org/datasets/agriculture/) - Curated collection of machine learning datasets specifically designed to address food security challenges in developing regions.
@@ -68,8 +68,8 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Data Standardization, Interoperability and APIs
 
-* [SampleData](https://github.com/JohnDeere/SampleData) ⭐ 35 | 🐛 0 | 📅 2023-03-29 - Sample datacards, shapefiles, and other files you can use for testing.
-* [MyJohnDeereAPI-OAuth2-Python-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Python-Example) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2024-05-29 - Python MyJohnDeere API client example.
+* [SampleData](https://github.com/JohnDeere/SampleData) ⭐ 34 | 🐛 0 | 📅 2023-03-29 - Sample datacards, shapefiles, and other files you can use for testing.
+* [MyJohnDeereAPI-OAuth2-Python-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Python-Example) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2026-02-20 - Python MyJohnDeere API client example.
 * [Botanica](https://github.com/Michael-A-Kuykendall/botanica) ⭐ 10 | 🐛 1 | 🌐 Rust | 📅 2025-09-14 - Production-ready Rust crate for professional botanical data management with taxonomic hierarchy, cultivation tracking, and Darwin Core compliance.
 * [API-Code-Samples](https://github.com/aWhereAPI/API-Code-Samples) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2019-01-10 - Contains aWhere's API platform code samples.
 * [MyJohnDeereAPI-OAuth2-NodeJS-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-NodeJS-Example) ⭐ 3 | 🐛 25 | 🌐 JavaScript | 📅 2026-02-18 - Node.js MyJohnDeere API client example.
@@ -85,10 +85,10 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Farm Management Systems and Record Keeping
 
-* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,212 | 🐛 49 | 🌐 PHP | 📅 2026-02-15 - Web-based farm record keeping application built with Drupal and PHP.
+* [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,214 | 🐛 50 | 🌐 PHP | 📅 2026-02-15 - Web-based farm record keeping application built with Drupal and PHP.
 * [Tania](https://github.com/Tanibox/tania-core) ⭐ 813 | 🐛 34 | 🌐 Go | 📅 2024-06-13 - Free and open source farming management system for everyone built with Go and Vue.js.
 * [Ekylibre](https://github.com/ekylibre/ekylibre) ⭐ 466 | 🐛 3 | 🌐 Ruby | 📅 2024-03-11 - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
-* [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 195 | 🐛 42 | 🌐 JavaScript | 📅 2026-02-20 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
+* [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 196 | 🐛 42 | 🌐 JavaScript | 📅 2026-02-21 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
 * [Soil Mate](https://github.com/Open-Source-Agriculture/soil_mate) ⭐ 23 | 🐛 7 | 🌐 Dart | 📅 2021-04-05 - Helper app designed to assist the collection of soil data.
 * [GrowGood](https://gitlab.com/growgood)) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
 
@@ -96,7 +96,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### GIS Resources
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,195 | 🐛 17 | 📅 2026-02-06 - Awesome GIS is a list collecting abundant GIS related sources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,196 | 🐛 17 | 📅 2026-02-06 - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### GIS Platforms
 
@@ -104,13 +104,13 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### Shapefiles
 
-* [pyshp](https://github.com/GeospatialPython/pyshp) ⭐ 1,146 | 🐛 32 | 🌐 Python | 📅 2025-11-28 - Reads and writes ESRI Shapefiles in pure Python.
+* [pyshp](https://github.com/GeospatialPython/pyshp) ⭐ 1,145 | 🐛 32 | 🌐 Python | 📅 2025-11-28 - Reads and writes ESRI Shapefiles in pure Python.
 * [rgeo-shapefile](https://github.com/rgeo/rgeo-shapefile) ⭐ 98 | 🐛 4 | 🌐 Ruby | 📅 2024-10-10 - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
 
 ## IoT, Hardware
 
 * [Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) ⭐ 590 | 🐛 6 | 🌐 C | 📅 2026-01-29 - System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
-* [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) ⭐ 441 | 🐛 20 | 🌐 Python | 📅 2026-02-13 - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
+* [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) ⭐ 441 | 🐛 20 | 🌐 Python | 📅 2026-02-20 - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
 * [OpenMinder](https://github.com/autogrow/openminder) ⭐ 45 | 🐛 1 | 🌐 Go | 📅 2018-06-14 - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
 * [Simplesteer](https://github.com/matmis/simplesteer) ⭐ 5 | 🐛 2 | 🌐 JavaScript | 📅 2025-07-13 - RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.
 * [Smart Farming Thingsboard](https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) ⭐ 5 | 🐛 0 | 📅 2022-05-05 - a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.
@@ -126,11 +126,11 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Machine Learning and AI
 
-* [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 833 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-07-28 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
-* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 765 | 🐛 119 | 🌐 Python | 📅 2026-02-19 - Plant phenotyping software using computer vision.
+* [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 835 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-07-28 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
+* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 765 | 🐛 118 | 🌐 Python | 📅 2026-02-20 - Plant phenotyping software using computer vision.
 * [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) ⭐ 416 | 🐛 11 | 🌐 Python | 📅 2023-05-27 - Deep gaussian process for crop yield prediction based on remote sensing data.
 * [AgML](https://github.com/Project-AgML/AgML) ⭐ 262 | 🐛 11 | 🌐 Python | 📅 2025-04-22 - Centralized framework for agricultural machine learning.
-* [agridat](https://github.com/kwstat/agridat) ⭐ 139 | 🐛 0 | 🌐 R | 📅 2026-02-10 - R package providing an extensive collection of datasets from agricultural experiments.
+* [agridat](https://github.com/kwstat/agridat) ⭐ 140 | 🐛 0 | 🌐 R | 📅 2026-02-10 - R package providing an extensive collection of datasets from agricultural experiments.
 * [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) ⭐ 106 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-05-27 - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
 
 ## Remote Sensing and Imagery
