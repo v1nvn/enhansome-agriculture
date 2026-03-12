@@ -43,7 +43,7 @@
             "last_commit": "2026-03-02T09:43:41Z",
             "owner": "Fields2Cover",
             "repo": "Fields2Cover",
-            "stars": 766
+            "stars": 768
           }
         },
         {
@@ -131,7 +131,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-10T22:20:04Z",
+            "last_commit": "2026-03-11T19:12:22Z",
             "owner": "akrherz",
             "repo": "iem",
             "stars": 182
@@ -425,10 +425,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-03-09T14:42:14Z",
+            "last_commit": "2026-03-11T22:04:09Z",
             "owner": "farmOS",
             "repo": "farmOS",
-            "stars": 1227
+            "stars": 1228
           }
         },
         {
@@ -443,10 +443,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-10T23:44:51Z",
+            "last_commit": "2026-03-12T01:38:55Z",
             "owner": "LiteFarmOrg",
             "repo": "LiteFarm",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -571,7 +571,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-02-21T14:15:57Z",
+            "last_commit": "2026-03-11T10:31:59Z",
             "owner": "geezacoleman",
             "repo": "OpenWeedLocator",
             "stars": 441
@@ -735,7 +735,7 @@
             "last_commit": "2025-02-20T08:03:22Z",
             "owner": "kr-stn",
             "repo": "awesome-sentinel",
-            "stars": 576
+            "stars": 577
           }
         },
         {
@@ -761,7 +761,7 @@
             "last_commit": "2025-09-29T15:23:52Z",
             "owner": "azavea",
             "repo": "raster-vision",
-            "stars": 2209
+            "stars": 2210
           }
         },
         {
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:12:51.293Z",
+    "last_updated": "2026-03-12T04:16:39.089Z",
     "original_repository": "brycejohnston/awesome-agriculture",
     "source_repository": "v1nvn/enhansome-agriculture",
     "source_repository_description": null,
