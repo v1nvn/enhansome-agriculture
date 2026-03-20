@@ -4,7 +4,7 @@
 
 [Agriculture](https://en.wikipedia.org/wiki/Agriculture) is the science and art of cultivating plants and livestock for food and materials.
 
-Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,702 | 🐛 4 | 📅 2026-01-05.
+Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,703 | 🐛 5 | 📅 2026-01-05.
 
 ## Contents
 
@@ -41,7 +41,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Climate, Environment and Weather
 
-* [iem](https://github.com/akrherz/iem) ⭐ 183 | 🐛 108 | 🌐 Python | 📅 2026-03-19 - Code that makes the Iowa Environmental Mesonet run.
+* [iem](https://github.com/akrherz/iem) ⭐ 183 | 🐛 108 | 🌐 Python | 📅 2026-03-20 - Code that makes the Iowa Environmental Mesonet run.
 * [PyETo](https://github.com/woodcrafty/PyETo) ⭐ 178 | 🐛 5 | 🌐 Python | 📅 2022-08-31 - Python package for calculating reference/potential evapotranspiration (ETo).
 * [frostline](https://github.com/waldoj/frostline) ⭐ 163 | 🐛 13 | 🌐 Python | 📅 2025-11-11 - A dataset, API, and python parser for USDA plant hardiness zones.
 * [pyTSEB](https://github.com/hectornieto/pyTSEB) ⭐ 163 | 🐛 4 | 🌐 Python | 📅 2025-12-16 - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
@@ -88,7 +88,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 * [farmOS](https://github.com/farmOS/farmOS) ⭐ 1,244 | 🐛 51 | 🌐 PHP | 📅 2026-03-18 - Web-based farm record keeping application built with Drupal and PHP.
 * [Tania](https://github.com/Tanibox/tania-core) ⭐ 815 | 🐛 37 | 🌐 Go | 📅 2026-03-03 - Free and open source farming management system for everyone built with Go and Vue.js.
 * [Ekylibre](https://github.com/ekylibre/ekylibre) ⭐ 468 | 🐛 3 | 🌐 Ruby | 📅 2024-03-11 - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
-* [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 204 | 🐛 40 | 🌐 JavaScript | 📅 2026-03-18 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
+* [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) ⭐ 204 | 🐛 41 | 🌐 JavaScript | 📅 2026-03-19 - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
 * [Soil Mate](https://github.com/Open-Source-Agriculture/soil_mate) ⭐ 23 | 🐛 7 | 🌐 Dart | 📅 2021-04-05 - Helper app designed to assist the collection of soil data.
 * [GrowGood](https://gitlab.com/growgood)) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
 
@@ -104,7 +104,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### Shapefiles
 
-* [pyshp](https://github.com/GeospatialPython/pyshp) ⭐ 1,149 | 🐛 32 | 🌐 Python | 📅 2025-11-28 - Reads and writes ESRI Shapefiles in pure Python.
+* [pyshp](https://github.com/GeospatialPython/pyshp) ⭐ 1,150 | 🐛 30 | 🌐 Python | 📅 2026-03-19 - Reads and writes ESRI Shapefiles in pure Python.
 * [rgeo-shapefile](https://github.com/rgeo/rgeo-shapefile) ⭐ 98 | 🐛 4 | 🌐 Ruby | 📅 2024-10-10 - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
 
 ## IoT, Hardware
@@ -126,8 +126,8 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Machine Learning and AI
 
-* [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 836 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-07-28 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
-* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 771 | 🐛 108 | 🌐 Python | 📅 2026-03-16 - Plant phenotyping software using computer vision.
+* [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 837 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-07-28 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
+* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 771 | 🐛 110 | 🌐 Python | 📅 2026-03-19 - Plant phenotyping software using computer vision.
 * [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) ⭐ 417 | 🐛 11 | 🌐 Python | 📅 2023-05-27 - Deep gaussian process for crop yield prediction based on remote sensing data.
 * [AgML](https://github.com/Project-AgML/AgML) ⭐ 267 | 🐛 11 | 🌐 Python | 📅 2026-03-17 - Centralized framework for agricultural machine learning.
 * [agridat](https://github.com/kwstat/agridat) ⭐ 140 | 🐛 0 | 🌐 R | 📅 2026-03-07 - R package providing an extensive collection of datasets from agricultural experiments.
