@@ -4,7 +4,7 @@
 
 [Agriculture](https://en.wikipedia.org/wiki/Agriculture) is the science and art of cultivating plants and livestock for food and materials.
 
-Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,740 | 🐛 4 | 📅 2026-01-05.
+Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) ⭐ 1,741 | 🐛 4 | 📅 2026-01-05.
 
 ## Contents
 
@@ -96,7 +96,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### GIS Resources
 
-* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,325 | 🐛 33 | 📅 2026-03-29 - Awesome GIS is a list collecting abundant GIS related sources.
+* [Awesome GIS](https://github.com/sshuair/awesome-gis) ⭐ 5,326 | 🐛 33 | 📅 2026-03-29 - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### GIS Platforms
 
@@ -126,7 +126,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Machine Learning and AI
 
-* [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 857 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2025-07-28 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
+* [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) ⭐ 858 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2025-07-28 - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
 * [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 784 | 🐛 114 | 🌐 Python | 📅 2026-04-24 - Plant phenotyping software using computer vision.
 * [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) ⭐ 417 | 🐛 11 | 🌐 Python | 📅 2023-05-27 - Deep gaussian process for crop yield prediction based on remote sensing data.
 * [AgML](https://github.com/Project-AgML/AgML) ⭐ 276 | 🐛 12 | 🌐 Python | 📅 2026-04-26 - Centralized framework for agricultural machine learning.
@@ -135,7 +135,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Remote Sensing and Imagery
 
-* [Raster Vision](https://github.com/azavea/raster-vision) ⭐ 2,215 | 🐛 41 | 🌐 Python | 📅 2025-09-29 - Deep learning for aerial/satellite imagery.
+* [Raster Vision](https://github.com/azavea/raster-vision) ⭐ 2,216 | 🐛 41 | 🌐 Python | 📅 2025-09-29 - Deep learning for aerial/satellite imagery.
 * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) ⭐ 576 | 🐛 2 | 📅 2025-02-20 - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 * [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) ⭐ 130 | 🐛 23 | 🌐 HTML | 📅 2020-11-23 - Software system processing high resolution satellite images for agricultural purposes.
 * [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) ⭐ 81 | 🐛 0 | 📅 2023-03-09 - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
